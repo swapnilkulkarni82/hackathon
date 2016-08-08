@@ -12,4 +12,4 @@ quote,01:00:00.576,AUDUSD,AGG,0.76127,0.76131
 deal,01:02:14.860,AUDUSD,30000,0.76111,B
 
 #### Business Rules
-Hackathon Rules.docx describes business rules for calculating different columns in the app display
+Hackathon Rules.docx describes business rules for calculating different columns in the app display and would be sent via email
